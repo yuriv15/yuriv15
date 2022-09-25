@@ -1,5 +1,6 @@
 ## Olá! Seja Bem Vindo(a) ao meu perfil! 😁
 
+![SoExcited~GIF](https://user-images.githubusercontent.com/65895389/192128647-6dc31394-6270-428c-b08d-3ac8956ff7f0.gif)
 
 ## SOBRE MIM: 
 
