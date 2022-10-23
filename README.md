@@ -1,10 +1,13 @@
-## Olá! Seja Bem Vindo(a) ao meu perfil! 😁
+## Olá! Seja Bem Vindo(a) ao meu perfil! 😁 / Hello! Welcome to my profile! 😁
 
-![SoExcited~GIF](https://user-images.githubusercontent.com/65895389/192128647-6dc31394-6270-428c-b08d-3ac8956ff7f0.gif)
+![CatGIF](https://user-images.githubusercontent.com/65895389/197408836-1a7794fd-f795-45d7-9839-90ef67667e32.gif)
 
-## SOBRE MIM: 
+
+## SOBRE MIM / ABOUT ME: 
 
 Sou um desenvolvedor full-stack, com mais de 1 ano e experiência em desenvolvimento web e SPAs. Trabalho atualmente em uma aplicação que receberá um grande tráfego de usuários enviando informações e, logo em seguida, torna-às disponível para visualização e gerenciamento. Possuo sólidos conhecimentos em programação funcional, Typescript, VueJS ( 2 e 3), Node, NestJS, MongoDB, Git entre outros. Busco sempre me aprimorar, então estou sempre aprendendo algo novo e fazendo cursos.
+<br><br>
+I'm a fullstack developer, with almost 2 years of experience. I'm currently working on a web application that will receive a huge amount of users providing data and then treat that data, making it available for managing and visualization. I have solid knowledge in VueJs(2 and 3), Typescript, NodeJS, NestJs, MongoDB, Git, etc. I'm always looking for improving myself, so I'm always learning something new and taking new courses.
 <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriv13/)
 
@@ -13,7 +16,7 @@ Sou um desenvolvedor full-stack, com mais de 1 ano e experiência em desenvolvim
 
 
 
-### Tecnologias Que Uso No Dia a Dia:
+### Tecnologias Que Uso No Dia a Dia: / Technologies I use:
 
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -38,7 +41,7 @@ Sou um desenvolvedor full-stack, com mais de 1 ano e experiência em desenvolvim
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
 
 
-### Tecnologias que estou estudando:
+### Tecnologias que estou estudando: / Technologies I'm studying:
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
@@ -49,7 +52,7 @@ Sou um desenvolvedor full-stack, com mais de 1 ano e experiência em desenvolvim
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 
-### Sistemas que conheço:
+### Sistemas que conheço: / OS Systems I know:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
