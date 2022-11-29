@@ -1,4 +1,4 @@
-## Olá! Seja Bem Vindo(a) ao meu perfil! 😁 / Hello! Welcome to my profile! 😁
+## Olá! Seja Bem-vindo(a) ao meu perfil! 😁 / Hello! Welcome to my profile! 😁
 
 ![CatGIF](https://user-images.githubusercontent.com/65895389/197408836-1a7794fd-f795-45d7-9839-90ef67667e32.gif)
 
