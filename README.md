@@ -5,7 +5,7 @@
 
 ## SOBRE MIM / ABOUT ME: 
 
-Sou um desenvolvedor full-stack, com mais de 1 ano e experiência em desenvolvimento web e SPAs. Trabalho atualmente em uma aplicação que receberá um grande tráfego de usuários enviando informações e, logo em seguida, torna-às disponível para visualização e gerenciamento. Possuo sólidos conhecimentos em programação funcional, Typescript, VueJS ( 2 e 3), Node, NestJS, MongoDB, Git entre outros. Busco sempre me aprimorar, então estou sempre aprendendo algo novo e fazendo cursos.
+Sou um desenvolvedor full-stack, com mais de 2 anos de experiência em desenvolvimento web e SPAs. Trabalho atualmente em uma aplicação que receberá um grande tráfego de usuários enviando informações e, logo em seguida, torna-às disponível para visualização e gerenciamento. Possuo sólidos conhecimentos em programação funcional, Typescript, VueJS ( 2 e 3), Node, NestJS, MongoDB, Git entre outros. Busco sempre me aprimorar, então estou sempre aprendendo algo novo e fazendo cursos.
 <br><br>
 I'm a fullstack developer, with almost 2 years of experience. I'm currently working on a web application that will receive a huge amount of users providing data and then treat that data, making it available for managing and visualization. I have solid knowledge in VueJs(2 and 3), Typescript, NodeJS, NestJs, MongoDB, Git, etc. I'm always looking for improving myself, so I'm always learning something new and taking new courses.
 <br><br>
