@@ -11,9 +11,6 @@ I'm a fullstack developer, with almost 2 years of experience. I'm currently work
 <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriv13/)
 
- <img height="200px" src="https://github-readme-stats-beryl.vercel.app/api?username=yuriv15&theme=tokyonight&show_icons=true" alt="yuriv15"><img>
- <img height="200px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=yuriv15&theme=tokyonight" alt="yuriv15"><img>
-
 
 
 ### Tecnologias Que Uso No Dia a Dia: / Technologies I use:
