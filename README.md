@@ -5,9 +5,21 @@
 
 ## SOBRE MIM / ABOUT ME: 
 
-Sou um desenvolvedor full-stack, com mais de 4 anos de experiência em desenvolvimento web e SPAs. Trabalho atualmente em uma aplicação que receberá um grande tráfego de usuários enviando informações e, logo em seguida, torna-às disponível para visualização e gerenciamento. Possuo sólidos conhecimentos em programação funcional, Typescript, VueJS ( 2 e 3), Node, NestJS, MongoDB, Git entre outros. Busco sempre me aprimorar, então estou sempre aprendendo algo novo e fazendo cursos.
-<br><br>
-I'm a fullstack developer, with more than 4 years of experience. I'm currently working on a web application that will receive a huge amount of users providing data and then treat that data, making it available for managing and visualization. I have solid knowledge in VueJs(2 and 3), Typescript, NodeJS, NestJs, MongoDB, Git, etc. I'm always looking for improving myself, so I'm always learning something new and taking new courses.
+Desenvolvedor Fullstack com mais de 4 anos de experiência, especializado em Nuxt.js, Quasar, NestJS e TypeScript. Atuo no desenvolvimento de aplicações escaláveis, com integração DevOps (Docker, Jenkins, AWS) e arquitetura otimizada para performance e segurança.
+
+Atualmente, trabalho na Dsg Technology, onde lidero a implementação de um novo projeto frontend em Nuxt.js, contribuindo para melhorias estruturais e otimização de processos. Além disso, possuo experiência com PostgreSQL, MongoDB e CI/CD.
+
+No tempo livre, estudo Swift para desenvolvimento iOS e aprimoro meu conhecimento full cycle pelo curso.dev.
+
+🚀 Sempre em busca de desafios para entregar código de qualidade e soluções eficientes!
+<br>
+<hr>
+<br>
+Fullstack Developer with over 4 years of experience, specializing in Nuxt.js, Quasar, NestJS, and TypeScript. I focus on developing scalable applications with DevOps integration (Docker, Jenkins, AWS) and an architecture optimized for performance and security.
+
+Currently, I work at Dsg Technology, leading the implementation of a new frontend project in Nuxt.js, contributing to structural improvements and process optimization. Additionally, I have experience with PostgreSQL, MongoDB, and CI/CD.
+
+In my free time, I study Swift for iOS development and enhance my full-cycle development skills through curso.dev.
 <br><br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuriv13/)
 
@@ -36,6 +48,8 @@ I'm a fullstack developer, with more than 4 years of experience. I'm currently w
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 [![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)](#)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 
 
 ### Tecnologias que estou estudando: / Technologies I'm studying:
@@ -43,7 +57,6 @@ I'm a fullstack developer, with more than 4 years of experience. I'm currently w
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
 [![STYLED COMPONETES](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](#)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
@@ -51,8 +64,8 @@ I'm a fullstack developer, with more than 4 years of experience. I'm currently w
 
 ### Sistemas que conheço: / OS Systems I know:
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](#)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](#)
 [![]()](#)
