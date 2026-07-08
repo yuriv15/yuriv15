@@ -5,7 +5,7 @@
 
 ## SOBRE MIM / ABOUT ME: 
 
-Desenvolvedor Fullstack com mais de 4 anos de experiência, especializado em Nuxt.js, Quasar, NestJS e TypeScript. Atuo no desenvolvimento de aplicações escaláveis, com integração DevOps (Docker, Jenkins, AWS) e arquitetura otimizada para performance e segurança.
+Desenvolvedor Fullstack com mais de 6 anos de experiência, especializado em Nuxt.js, Quasar, NestJS e TypeScript. Atuo no desenvolvimento de aplicações escaláveis, com integração DevOps (Docker, Jenkins, AWS) e arquitetura otimizada para performance e segurança.
 
 Atualmente, trabalho na Dsg Technology, onde lidero a implementação de um novo projeto frontend em Nuxt.js, contribuindo para melhorias estruturais e otimização de processos. Além disso, possuo experiência com PostgreSQL, MongoDB e CI/CD.
 
@@ -15,7 +15,7 @@ No tempo livre, estudo Swift para desenvolvimento iOS e aprimoro meu conheciment
 <br>
 <hr>
 <br>
-Fullstack Developer with over 4 years of experience, specializing in Nuxt.js, Quasar, NestJS, and TypeScript. I focus on developing scalable applications with DevOps integration (Docker, Jenkins, AWS) and an architecture optimized for performance and security.
+Fullstack Developer with over 6 years of experience, specializing in Nuxt.js, Quasar, NestJS, and TypeScript. I focus on developing scalable applications with DevOps integration (Docker, Jenkins, AWS) and an architecture optimized for performance and security.
 
 Currently, I work at Dsg Technology, leading the implementation of a new frontend project in Nuxt.js, contributing to structural improvements and process optimization. Additionally, I have experience with PostgreSQL, MongoDB, and CI/CD.
 
