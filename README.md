@@ -1,8 +1,5 @@
 ## Olá! Seja Bem-vindo(a) ao meu perfil! 😁 / Hello! Welcome to my profile! 😁
 
-![CatGIF](https://user-images.githubusercontent.com/65895389/197408836-1a7794fd-f795-45d7-9839-90ef67667e32.gif)
-
-
 ## SOBRE MIM / ABOUT ME: 
 
 Desenvolvedor Fullstack com mais de 6 anos de experiência, especializado em Nuxt.js, Quasar, NestJS e TypeScript. Atuo no desenvolvimento de aplicações escaláveis, com integração DevOps (Docker, Jenkins, AWS) e arquitetura otimizada para performance e segurança.
